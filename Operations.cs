@@ -1,8 +1,4 @@
-﻿/* Core Portfolio 3
- * CPSC1012
- * 
- * Kim Kroening
- * */
+﻿/* Core Portfolio 3* */
 
 
 using System;
@@ -10,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 
-namespace CPSC1012_CorePort2_KimKroening
+namespace CPSC1012_CorePort3
 {
     public class Operations
     {
