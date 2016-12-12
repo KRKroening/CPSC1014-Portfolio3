@@ -1,15 +1,11 @@
-﻿/* Core Portfolio 3
- * CPSC1012
- * 
- * Kim Kroening
- * */
+﻿/* Core Portfolio 3 * */
 
 
 
 using System;
 using System.Collections.Generic;
 
-namespace CPSC1012_CorePort2_KimKroening
+namespace CPSC1012_CorePort3
 {
     class Program
     {
